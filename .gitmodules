@@ -1,0 +1,4 @@
+[submodule "BlindBeez-FrontEnd"]
+	path = BlindBeez-FrontEnd
+	url = https://github.com/francardoso93/BlindBeez-FrontEnd.git
+	branch = master
