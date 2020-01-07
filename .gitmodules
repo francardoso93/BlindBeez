@@ -2,3 +2,7 @@
 	path = BlindBeez-FrontEnd
 	url = https://github.com/francardoso93/BlindBeez-FrontEnd.git
 	branch = master
+[submodule "BlindBeez-Backend"]
+	path = BlindBeez-Backend
+	url = https://github.com/francardoso93/BlindBeez-Backend.git
+	branch = master
